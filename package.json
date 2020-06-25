@@ -1,5 +1,5 @@
 {
-  "name": "API-Rest-To-Do-List",
+  "name": "apitodolist",
   "version": "1.0.0",
   "description": "This is an API Rest to \"To Do List App\"",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marcoETmx/API-Rest-To-Do-List/issues"
   },
-  "homepage": "https://github.com/marcoETmx/API-Rest-To-Do-List#readme"
+  "homepage": "https://github.com/marcoETmx/API-Rest-To-Do-List#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
