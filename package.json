@@ -1,0 +1,20 @@
+{
+  "name": "API-Rest-To-Do-List",
+  "version": "1.0.0",
+  "description": "This is an API Rest to \"To Do List App\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoETmx/API-Rest-To-Do-List.git"
+  },
+  "keywords": [],
+  "author": "Marco Elizalde <contacto@marcoelizalde.com> (https://www.marcoelizalde.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcoETmx/API-Rest-To-Do-List/issues"
+  },
+  "homepage": "https://github.com/marcoETmx/API-Rest-To-Do-List#readme"
+}
